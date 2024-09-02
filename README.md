@@ -1,6 +1,8 @@
 # SE-Sem-3-OOP-Lab-SPPU
 
-Q1- Develop an object oriented program in C++ to create a database of student information
+GRP A
+
+Q3- Develop an object oriented program in C++ to create a database of student information
 system containing the following information: Name, Roll number, Class, division, Date of
 Birth, Blood group, Contact address, telephone number, driving license no. and other.
 Construct the database with suitable member functions for initializing and destroying the
